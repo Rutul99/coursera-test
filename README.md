@@ -1,2 +1,3 @@
 # coursera-test
-Test reposita
+Test repository
+
